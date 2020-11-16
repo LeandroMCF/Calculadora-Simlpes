@@ -54,6 +54,8 @@ namespace Calculadora_Simlpes
                 calcu = int.Parse(Console.ReadLine());
             }
 
+                Console.WriteLine("Ok, ate mais!");
+
             
         }
     }
